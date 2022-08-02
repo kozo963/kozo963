@@ -31,7 +31,7 @@
 
 ---
 
-  ![Khaled's github stats](https://github-readme-stats.vercel.app/api?username=kozo963&show_icons=true&hide_border=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gkhan205&layout=compact&theme=dark&hide_border=true)
 
 
 <!--
