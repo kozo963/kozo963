@@ -1,3 +1,4 @@
+<a><h2>𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮</h2></a>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSharp" alt="CSharp" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg" title="DotNet" alt="DotNet" width="40" height="40"/>&nbsp;
@@ -14,8 +15,8 @@
   <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" title="Git" **alt="Git" width="40" height="40"/>
   
   
-  
-<a><h2>Stats</h2></a>
+---
+<a><h2>𝓢𝓽𝓪𝓽𝓾𝓼</h2></a>
 <div>
     <a href="https://github-readme-stats.vercel.app">
         <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=kozo963&theme=onedark&custom_title=GitHub+Stats&hide_border=true"/>
@@ -23,10 +24,6 @@
     <a href="https://github-readme-streak-stats.herokuapp.com">
         <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=kozo963&theme=onedark&hide_border=true"/>
     </a>
-    <a><h2>Trophies</h2></a>
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=kozo963&row=4&theme=onedark&no-frame=true"/>
-    </a>    
 </div>
 
 ---
@@ -48,4 +45,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+    <a><h2>Trophies</h2></a>
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=kozo963&row=4&theme=onedark&no-frame=true"/>
+    </a>    
+    
 -->
