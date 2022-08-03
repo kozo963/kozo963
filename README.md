@@ -25,7 +25,6 @@
         <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=kozo963&theme=onedark&hide_border=true"/>
     </a>
 </div>
-
 ---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kozo963&layout=compact&theme=dark&hide_border=true)
